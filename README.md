@@ -25,11 +25,11 @@ Get started guide:
    - terraform apply
 
 
-    - Terraform Practice
-    - Name: Nima Tabatabaee
-    - Grops: Bladrina
-    - Practice Name: Ops-002-terraform-docker-demo
-    - @dwsclass dws-Ops-002-terraform
+Terraform Practice
+  - Name: Nima Tabatabaee
+  - Grops: Bladrina
+  - Practice Name: Ops-002-terraform-docker-demo
+  - @dwsclass dws-Ops-002-terraform
 
 
 Copyright 2022 Nima Tabatabaee <nima.tabatabaee@gmail.com>
