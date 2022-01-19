@@ -20,16 +20,16 @@ Get started guide:
 2) Clone this repo on your system
 
 3) run this command:
-   -terraform init
-   -terraform plan
-   -terraform apply
+   - terraform init
+   - terraform plan
+   - terraform apply
 
 
-    Terraform Practice
-    Name: Nima Tabatabaee
-    Grops: Bladrina
-    Practice Name: Ops-002-terraform-docker-demo
-    @dwsclass dws-Ops-002-terraform
+    - Terraform Practice
+    - Name: Nima Tabatabaee
+    - Grops: Bladrina
+    - Practice Name: Ops-002-terraform-docker-demo
+    - @dwsclass dws-Ops-002-terraform
 
 
 Copyright 2022 Nima Tabatabaee <nima.tabatabaee@gmail.com>
